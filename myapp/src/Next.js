@@ -24,9 +24,9 @@ const Next=()=>{
 
       <Card {...res[0]}/>
       
-      <Card {...res[0]}/>
+      <Card {...res[1]}/>
       
-      <Card {...res[0]}/>
+      <Card {...res[2]}/>
         </div>
         </>
     )
