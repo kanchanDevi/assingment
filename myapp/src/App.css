@@ -36,7 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.counter{
+  color:grey;
+  
+}
 
+.card
+{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.count{
+  color:grey;
+  padding:10px;
+}
 .row{
   display:flex;
   flex-direction: row;
